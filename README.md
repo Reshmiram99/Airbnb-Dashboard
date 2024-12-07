@@ -1,4 +1,4 @@
-# Airbnb-Dashboard
+# AIRBNB-Dashboard
 
 # Overview
 
