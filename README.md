@@ -7,7 +7,7 @@
 Getting Started with the Power BI Project
 
 1. Download the Dataset:
-Download the dataset from this link.
+Download the dataset from this link https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data.
 
 2. Open in Power BI Desktop:
 Open the downloaded dataset in Power BI Desktop.
